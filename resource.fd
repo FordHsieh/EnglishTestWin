@@ -1,0 +1,16 @@
+!MS$FREEFORM
+! Microsoft Developer Studio generated include file.
+! Used by EnglishTestWin.rc
+!
+      integer, parameter :: IDD_ENGLISHTESTWIN_DIALOG       = 102
+      integer, parameter :: IDR_MAINFRAME                   = 128
+      integer, parameter :: IDD_TESTDIALOG                  = 129
+      integer, parameter :: IDD_DIALOG_RIGHTANS             = 130
+      integer, parameter :: IDD_DIALOG_ERRANS               = 131
+      integer, parameter :: IDC_BUTTON1                     = 1004
+      integer, parameter :: IDC_BUTTON2                     = 1005
+      integer, parameter :: IDC_BUTTON3                     = 1006
+      integer, parameter :: IDC_BUTTON4                     = 1007
+      integer, parameter :: IDC_STATICWORD                  = 1013
+      integer, parameter :: IDC_RIGHTWORD                   = 1014
+      integer, parameter :: IDC_COMBOBOXEX1                 = 1015
