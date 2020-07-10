@@ -1,3 +1,8 @@
+
+<img src="https://github.com/FordHsieh/EnglishTestWin/blob/master/EnglsihTestWin1.JPG" width="480">
+<img src="https://github.com/FordHsieh/EnglishTestWin/blob/master/EnglsihTestWin2.JPG" width="480">
+<img src="https://github.com/FordHsieh/EnglishTestWin/blob/master/EnglsihTestWin3.JPG" width="480">
+
 ========================================================================
        MICROSOFT FOUNDATION CLASS LIBRARY : EnglishTestWin
 ========================================================================
