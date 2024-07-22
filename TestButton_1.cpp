@@ -22,6 +22,7 @@ CTestButton_1::CTestButton_1()
 
 CTestButton_1::~CTestButton_1()
 {
+	// TODO
 }
 
 
